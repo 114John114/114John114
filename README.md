@@ -9,7 +9,7 @@
 - 对unity游戏开发方向有深厚的兴趣
 ### 联系方式
 - QQ : 2055929667
-- mail : gonglingyu@gmail.com
+- mail : gonglingyu886@gmail.com
 <!--
 **114John114/114John114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
